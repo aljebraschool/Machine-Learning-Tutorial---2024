@@ -19,7 +19,7 @@ In this section, you will learn about the fundamental concepts of machine learni
 
 ## Python Basics
 
-Here, you will get familiar with Python basics such as variables, data structures (lists, dictionaries, tuples), control structures (if, else, loops), and functions. This knowledge is essential for implementing machine learning algorithms in Python.
+Here, you will get familiar with Python basics such as variables, data structures (lists, dictionaries) and control structures (if, else, loops). This knowledge is essential for implementing machine learning algorithms in Python.
 
 ## NumPy and Pandas Basics
 
