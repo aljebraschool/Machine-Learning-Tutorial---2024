@@ -36,6 +36,8 @@ In this section, you'll explore unsupervised learning techniques including clust
 ## Project Project Project
 Finally, this section is dedicated to a project where you'll apply the knowledge gained throughout the tutorial to solve a real-world problem.
 
+**Updates:** This repository will be updated regularly after each lecture is completed. The tutorial started in March 2024 and will last for six months within 2024.
+
 Within this repository, you will find folders corresponding to each topic covered every week. Each folder contains questions related to the topic. If you encounter difficulties with any of the questions, you can access the solution code provided to guide you through.
 
 Feel free to navigate through the folders and explore the materials. If you have any questions or suggestions, please feel free to reach out.
