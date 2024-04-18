@@ -46,4 +46,4 @@ Happy learning, master students of UM6P!
 
 **YouTube Channel:** [Aljebraschool](https://www.youtube.com/aljebraschool) - Contains video tutorials for each weekly lecture.
 
-**Aljebra blog:** [Aljebraschool blog](https://www.aljebraschool.hashnode.dev) - Contains tutorials blog for each weekly lecture.
+**Aljebra blog:** [Aljebraschool blog](https://aljebraschool.hashnode.dev) - Contains tutorials blog for each weekly lecture.
