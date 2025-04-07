@@ -1,6 +1,6 @@
-# Machine Learning Tutorial Syllabus (2024)
+# Machine Learning Tutorial Syllabus 
 
-Welcome to the Machine Learning Tutorial repository! This repository is designed to accompany the machine learning tutorial syllabus for 2024 at University Muhammed VI Polytechnic (UM6P). Below, you'll find a breakdown of the topics covered in this repository along with instructions on how to use it effectively.
+Welcome to the Machine Learning Tutorial repository! This repository is designed to accompany the machine learning tutorial Master class at the African institute for Artificial Intelligence. Below, you'll find a breakdown of the topics covered in this repository along with instructions on how to use it effectively.
 
 ## Table of Contents
 
