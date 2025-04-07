@@ -1,6 +1,6 @@
-# Machine Learning Tutorial Syllabus 
+# African Institute For Artificial Intelligence - AI Masterclass
 
-Welcome to the Machine Learning Tutorial repository! This repository is designed to accompany the machine learning tutorial Master class at the African institute for Artificial Intelligence. Below, you'll find a breakdown of the topics covered in this repository along with instructions on how to use it effectively.
+Welcome to the African Institute For Artificial Intelligence - AI Masterclass! This repository is designed to accompany the machine learning tutorial Master class at the African institute for Artificial Intelligence. Below, you'll find a breakdown of the topics covered in this repository along with instructions on how to use it effectively.
 
 ## Table of Contents
 
