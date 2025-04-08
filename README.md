@@ -41,11 +41,10 @@ Finally, this section is dedicated to a project where you'll apply the knowledge
 
 Within this repository, you will find folders corresponding to each topic covered every week. Each folder contains questions related to the topic. If you encounter difficulties with any of the questions, you can access the solution code provided to guide you through.
 
-Feel free to navigate through the folders and explore the materials. If you have any questions or suggestions, please feel free to reach out.
+Feel free to navigate through the folders and explore the materials. If you have any questions or suggestions, please feel free to reach out at [Ridwan Ibidunni](Ridwan.Ibidunni@AI-4AI.org)
 
-**Happy learning, master students of UM6P!**
+**Happy learning!**
 
-Happy learning, master students of UM6P!
 
 **YouTube Channel:** [Aljebraschool](https://www.youtube.com/aljebraschool) - Contains video tutorials for each weekly lecture.
 
